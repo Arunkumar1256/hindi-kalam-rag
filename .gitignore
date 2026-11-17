@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.env
+.chroma/
+*.pyc
+
+.DS_Store
+hindi_kalam_rag_submission.zip
+hindi_kalam_rag_submission/
+src/rag.py.backup
